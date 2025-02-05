@@ -13,7 +13,7 @@ student={
     "age":19,
     "nationality":"Kenyan"
 }
-value=student["nationality"]
+value=student["nationality"]#dictionary
 
 
 
